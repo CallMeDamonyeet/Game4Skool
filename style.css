@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+#game-container {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+}
